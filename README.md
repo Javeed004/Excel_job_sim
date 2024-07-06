@@ -1,10 +1,10 @@
-## Excel Job Simulator at The JPMorgan Chase & Co.
+### Excel Job Simulator at The JPMorgan Chase & Co.
 
 ---
 
 ## Overview
 
-This program is designed to help participants develop skills in Excel for data analysis, visualization, and storytelling. The tasks in this program cover a range of essential Excel functions, from keyboard shortcuts to advanced data visualization and narrative techniques. By the end of the program, participants will be able to efficiently clean and explore data, create insightful visualizations, automate tasks with VBA, and communicate data-driven stories compellingly.
+This program is designed to help participants develop skills in Excel for data analysis, visualization, and storytelling. The tasks in this program cover a range of essential Excel functions, from keyboard shortcuts to advanced data visualization and narrative techniques. By the end of the program, participants will be able to efficiently clean and explore data, create insightful visualizations, automate tasks with VBA, and communicate data-driven stories compellingly. Upon completion, participants will receive a program completion certificate.
 
 ## Tasks
 
@@ -64,10 +64,8 @@ Telling compelling data-driven stories to communicate insights effectively.
 4. **Write a Narrative:** Develop a story arc that includes a setup, issue, resolution, and call to action.
 5. **Use Visuals:** Incorporate charts and graphs to support your narrative.
 
-
 ## Conclusion
 
-By completing this program, you will gain valuable skills in data analysis, visualization, storytelling using Excel and a program completion certificate. These skills are essential for making data-driven business decisions and communicating insights effectively to stakeholders.
+By completing this program, you will gain valuable skills in data analysis, visualization, and storytelling using Excel. These skills are essential for making data-driven business decisions and communicating insights effectively to stakeholders. Successful participants will also receive a program completion certificate.
 
 ---
-
