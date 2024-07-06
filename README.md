@@ -51,7 +51,6 @@ Creating charts and dashboards in Excel to visualize data insights and support d
    - Bar Chart for Top 10 Accounts by Unit Sales
    - Bar Chart for Top 10 Accounts by CAGR
    - Pie Chart for Sales by Account Type
-   - Column Chart for Sales Driven by Different Marketing Programs
 
 ### Task 5: Data-Driven Storytelling
 
