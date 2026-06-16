@@ -1,98 +1,99 @@
-# CodSoft Data Science Internship
- 
-A collection of machine learning projects completed as part of the **CodSoft Data Science Internship**. Each task explores a classic ML problem using real-world datasets, covering classification and regression techniques.
+# 📊 Excel Job Simulation
+
+Welcome to my **Excel Job Simulation** repository! 🎯  
+This repository contains the files and deliverables completed as part of the **JPMorgan Chase Excel Job Simulation** program. It includes workbook files, analysis outputs, and supporting materials prepared during the simulation.
+
+---
+
+## 📌 Table of Contents
+
+- [✨ Overview](#-overview)
+- [🛠️ Tools & Technologies](#️-tools--technologies)
+- [📂 Repository Structure](#-repository-structure)
+- [🚀 Getting Started](#-getting-started)
+- [📈 Features](#-features)
+- [📝 Project Highlights](#-project-highlights)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+
+---
+
+## ✨ Overview
+
+This project is a part of the **JPMorgan Chase Excel Job Simulation**. 🏦  
+It focuses on performing spreadsheet-based analysis, organizing data, and presenting insights using Microsoft Excel. The repository serves as a record of the simulation tasks and the final files created during the experience.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Excel 📑
+- Spreadsheet formulas and functions ➗
+- Data cleaning and formatting 🧹
+- Charts and visualizations 📊
+- Financial/data analysis techniques 💼
+
+---
 
 ## 📂 Repository Structure
 
-```
-CodSoft/
-├── Task-1.ipynb            # Titanic Survival Prediction
-├── Task-3.ipynb            # Iris Flower Classification
-├── Task-4.ipynb            # Sales Prediction using Advertising Data
-├── Titanic-Dataset.csv     # Dataset for Task 1
-├── IRIS.csv                # Dataset for Task 3
-├── advertising.csv         # Dataset for Task 4
-└── test.txt                # Notes / scratch file
+```text
+Excel_job_sim/
+├── README.md
+├── Excel workbook files
+├── Supporting documents
+└── Output files
 ```
 
-## 🚀 Tasks Overview
+---
 
-### 🚢 Task 1 — Titanic Survival Prediction
-- **Dataset**: `Titanic-Dataset.csv`
-- **Goal**: Predict whether a passenger survived the Titanic disaster
-- **Type**: Binary Classification
-- **Key Features**: Passenger class, age, sex, fare, embarked port, number of siblings/spouses and parents/children aboard
+## 🚀 Getting Started
 
-### 🌸 Task 3 — Iris Flower Classification
-- **Dataset**: `IRIS.csv`
-- **Goal**: Classify iris flowers into one of three species — *Setosa*, *Versicolor*, or *Virginica*
-- **Type**: Multi-class Classification
-- **Key Features**: Sepal length, sepal width, petal length, petal width
+### Prerequisites
 
-### 📈 Task 4 — Sales Prediction using Advertising Data
-- **Dataset**: `advertising.csv`
-- **Goal**: Predict product sales based on advertising spend across TV, Radio, and Newspaper channels
-- **Type**: Regression
-- **Key Features**: TV budget, Radio budget, Newspaper budget
+Make sure you have the following installed before opening the files:
 
-## 🛠️ Tech Stack
+- Microsoft Excel or a compatible spreadsheet application ✅
+- A system capable of opening `.xlsx` files 💻
 
-- **Python** — Core programming language
-- **Jupyter Notebook** — Interactive development environment
-- **Pandas** — Data manipulation and analysis
-- **NumPy** — Numerical computing
-- **Matplotlib / Seaborn** — Data visualization
-- **Scikit-learn** — Machine learning models and evaluation
-
-## 📦 Setup & Installation
-
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
-git clone https://github.com/Javeed004/CodSoft.git
-cd CodSoft
+git clone https://github.com/Javeed004/Excel_job_sim.git
 ```
 
-### 2. Install Dependencies
+### Open the Files
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-```
+After cloning, open the Excel workbooks in Microsoft Excel to explore the completed simulation tasks. 🧾
 
-### 3. Launch Jupyter Notebook
+---
 
-```bash
-jupyter notebook
-```
+## 📈 Features
 
-Open any `.ipynb` file to explore the respective task.
+- Organized Excel workbooks for simulation tasks 🗂️
+- Cleaned and structured data sheets 🧼
+- Formula-based analysis and calculations 🧮
+- Charts and visual summaries 📉
+- Professionally formatted outputs for submission ✨
 
-## 🎯 How Each Task Works
+---
 
-1. **Data Loading** → Import CSV dataset using Pandas
-2. **Exploratory Data Analysis (EDA)** → Understand distributions, correlations, and missing values
-3. **Preprocessing** → Handle nulls, encode categorical variables, scale features
-4. **Model Training** → Fit ML model on training data
-5. **Evaluation** → Assess performance using appropriate metrics
-6. **Insights** → Summarize findings and feature importance
+## 📝 Project Highlights
 
-## 📊 ML Models Used
+- Completed tasks as part of the JPMorgan Chase Excel simulation 🏢
+- Used Excel to analyze and structure data efficiently ⚙️
+- Created clear and presentation-ready deliverables 📋
+- Demonstrated practical spreadsheet and reporting skills 📚
 
-| Task | Model(s) |
-|------|----------|
-| Task 1 — Titanic Survival | Logistic Regression, Random Forest |
-| Task 3 — Iris Classification | K-Nearest Neighbors, Decision Tree |
-| Task 4 — Sales Prediction | Linear Regression |
+---
 
-## 📝 Evaluation Metrics
+## 🤝 Contributing
 
-- **Classification Tasks (Task 1 & 3)**: Accuracy, Confusion Matrix, Precision, Recall, F1-Score
-- **Regression Task (Task 4)**: Mean Absolute Error (MAE), Mean Squared Error (MSE), R² Score
+This repository is primarily for educational and portfolio purposes.  
+If you want to extend it, you can add more analysis sheets, improve formatting, or include additional documentation. 🌟
 
-## 🏢 About CodSoft
+---
 
-[CodSoft](https://www.codsoft.in/) is a tech company offering virtual internship programs in domains like Data Science, Web Development, and Artificial Intelligence. This repository reflects the work submitted during the **Data Science Internship**.
+## 📜 License
 
-## 👤 Author
-
-**Javeed** — [@Javeed004](https://github.com/Javeed004)
+This project is shared for educational use and portfolio showcase purposes only. 📖
