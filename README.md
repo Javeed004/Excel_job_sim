@@ -1,5 +1,5 @@
 # CodSoft Data Science Internship
-
+ 
 A collection of machine learning projects completed as part of the **CodSoft Data Science Internship**. Each task explores a classic ML problem using real-world datasets, covering classification and regression techniques.
 
 ## 📂 Repository Structure
